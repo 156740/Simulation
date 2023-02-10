@@ -9,7 +9,7 @@ latex_engine: lualatex
 
 ```{r}
 
-#to calculate MLE of the parameter lambda in the zero truncated Poisson distribution
+#To calculate MLE of the parameter lambda in the zero truncated Poisson distribution
 #input the data for the random variable
 #rep(x,n) gives n times the r.v x has been repeated
 
